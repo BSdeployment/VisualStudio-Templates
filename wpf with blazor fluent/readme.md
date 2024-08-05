@@ -6,5 +6,10 @@
   becuse the spacess may be problems with your css files (of coures you can fix that if you want)
 </h4>
 <br/>
+<img src="https://github.com/BSdeployment/VisualStudio-Templates/blob/main/wpf%20with%20blazor%20fluent/wpfwithblazorfluent.png?raw=true"
+  width="300"
+  />
+<br/>
+<br/>
 <br/>
 <h2>By Bs DotNet</h2>
