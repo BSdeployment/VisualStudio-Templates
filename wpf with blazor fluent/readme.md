@@ -4,7 +4,7 @@
 <img src="https://github.com/BSdeployment/VisualStudio-Templates/blob/main/wpf%20with%20blazor%20fluent/wpfwithblazorfluent.png?raw=true"
   width="300"
   />
-  <br/>
+
 <br/>
 <h4>note! change the imports razor file, base your namespace. and note not use with defult name project
 <br/>
@@ -13,5 +13,5 @@
 <br/>
 
 
-<br/>
+
 <h2>By Bs DotNet</h2>
